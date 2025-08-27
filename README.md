@@ -35,7 +35,7 @@ This project documents my learning and hands-on implementation of Ollama — a t
    ```
    ollama run llama2
    ```
-4. Ollama differnet models link you can see all ollama models below both links:
+4. You can explore different Ollama models at the following links:
     ```
    https://github.com/ollama/ollama
    https://ollama.com/search
