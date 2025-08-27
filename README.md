@@ -35,7 +35,11 @@ This project documents my learning and hands-on implementation of Ollama — a t
    ```
    ollama run llama2
    ```
-
+4. Ollama differnet models link you can see all ollama models below both links:
+    ```
+   https://github.com/ollama/ollama
+   https://ollama.com/search
+   ```
 ## How to use
 
 Since project files (Python scripts) are already uploaded to GitHub:
